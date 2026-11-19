@@ -1,0 +1,38 @@
+# PROPRIETARY LICENSE AGREEMENT
+
+**Copyright (c) 2025-2026 Daniez (Founder of DaniezDev). All Rights Reserved.**
+
+---
+
+### I. MANDATORY NOTICE RETENTION AND ATTRIBUTION
+Requires keeping copyright notices intact, including this `LICENSE.md` file in root directories, and maintaining source attribution links to DaniezDev (e.g., https://github.io), with failures constituting a material breach.
+
+### II. FOUNDER OWNERSHIP & ORGANIZATION GOVERNANCE
+NOTWITHSTANDING THE HOSTING OF REPOSITORIES UNDER THE DANIEZDEV ORGANIZATION, OWNERSHIP OF CORE ASSETS REMAINS EXCLUSIVELY WITH THE FOUNDER.
+* **Founder's Exclusive Ownership:** All core Proprietary Components, base architectures, repositories, game ports, and domain assets authored by **Daniez** (`@DaniezOnSFUSD`, hereafter "the Licensor") remain the sole and exclusive property of the Licensor.
+* **Member Code Ownership:** Organization members retain ownership over their own independent, original code or standalone contributions unless explicitly transferred in writing, provided such contributions do not claim ownership over the Licensor's underlying Proprietary Components.
+* **Strict Approval & Merge Control:** Joining or holding a member role within the **DaniezDev** GitHub Organization grants no administrative authority or permission to directly modify, overwrite, or alter the Licensor's repositories. All proposed edits, commits, or modifications to the Licensor's code require explicit review and Pull Request approval by the Licensor through GitHub.
+
+### III. DEFINITIONS AND SCOPE OF JURISDICTION
+Defines "Proprietary Components" as architectural logic, custom HTML5/CSS3/JavaScript codebases, and visual/branding assets under a binding agreement between the User and the Licensor.
+
+### IV. THIRD-PARTY ASSET ATTRIBUTION AND INDEMNIFICATION
+Covers third-party modules (such as Slope, Papa’s Gamerias, and EaglerCraft), noting that original creators (RenzorsRevenge1, Flipline Studios, Armor Games, etc.) retain title and governance under their respective EULAs while holding the Licensor harmless.
+
+### V. RESTRICTIVE GRANT OF NON-TRANSFERABLE LICENSE
+Grants a limited, revocable, non-exclusive license strictly to render/inspect components via GitHub and fork the repository for personal, non-commercial, archival purposes, contingent on adhering to Sections I and II.
+
+### VI. COVENANTS AND PROHIBITED EXPLOITATIONS
+Prohibits unauthorized mirroring/deployment on external servers, derivative UI replications ("Look and Feel"), commercial monetization (ads, paywalls, donations), and secondary distribution.
+
+### VII. ABSOLUTE VOTING RESTRICTIONS AND ANTI-BYPASS PROVISIONS
+Strictly forbids editing voting mechanics or using automated scripts, bots, scrapers, VPNs, proxies, or identity-masking to bypass monthly game-vote limits. Violations void the license *ab initio*.
+
+### VIII. LIMITATION OF LIABILITY AND "AS-IS" PROVISO
+Provides the software strictly "AS IS" with no warranties, releasing the Licensor from any liability arising from its use.
+
+### IX. TERMINATION AND ENFORCEMENT
+Any agreement breach results in immediate license termination and organization membership revocation, reserving legal recourse under the DMCA, CFAA, and international IP treaties.
+
+### X. CONTACT INFORMATION
+For licensing inquiries or commercial rights, contact Daniez via GitHub (`@DaniezOnSFUSD`) or Email `Daniez1+DaniezDevOrg@proton.me`.
